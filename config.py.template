@@ -1,0 +1,8 @@
+config = {
+    "server": "irc.twitch.tv",
+    "port": 6667,
+    "nick": "your_lowercase_twitch_username",
+    "password": "oauth:get_this_value_from_twitch",
+    "channels": ["#channel1", "channel2"],
+    "triggers": ["text to trigger on"]
+}
